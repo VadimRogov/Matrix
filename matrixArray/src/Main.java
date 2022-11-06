@@ -11,5 +11,6 @@ public class Main {
             }
         }
         System.out.println(arrays[arrays.length - 1][arrays.length - 1]);
+        System.out.println();
     }
 }
